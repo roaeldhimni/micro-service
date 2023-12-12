@@ -8,10 +8,10 @@
 ![WhatsApp Image 2023-12-12 à 22 17 23_f0778a0b](https://github.com/roaeldhimni/micro-service/assets/128164812/ea8a4901-188c-4299-bd92-d842b9498998)
 ![WhatsApp Image 2023-12-12 à 22 18 17_4b916ed8](https://github.com/roaeldhimni/micro-service/assets/128164812/727fe50b-d95e-475e-bd2e-643acfd55d18)
 
-### Gateway
+### Gateway : Affichage des clients de la base de données H2
 ![WhatsApp Image 2023-12-12 à 22 39 54_3156e056](https://github.com/roaeldhimni/micro-service/assets/128164812/11342b86-8364-4ae4-aa44-e4b46c896e89)
 
-### Voiture
+### Voiture : Voitures présents dans la base de données H2 et ces clients associés
 ![WhatsApp Image 2023-12-12 à 22 58 23_39792a1c](https://github.com/roaeldhimni/micro-service/assets/128164812/48a93a72-a06b-40ce-a004-f9c906c2368a)
 
 
